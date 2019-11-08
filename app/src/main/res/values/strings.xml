@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyPlace</string>
+    <string name="new_home">LET\'S FIND YOU A HOME</string>
+    <string name="welcome">WELCOME TO FIND MY PLACE</string>
+    <string name="description">THIS APP HELPS YOU FIND AVAILABLE APARTMENTS FOR RENT WITHIN YOUR AREA</string>
+</resources>
